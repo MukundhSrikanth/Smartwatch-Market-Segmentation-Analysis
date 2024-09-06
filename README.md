@@ -29,7 +29,7 @@ This repository contains an R script that performs a detailed analysis of custom
 To replicate this analysis on your local machine, follow these steps:
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MukundhSrikanth/Smartwatch-Market-Segmentation-Analysis.git
 
 ## **Install Dependencies** 📦
 
